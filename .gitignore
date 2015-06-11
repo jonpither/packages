@@ -1,3 +1,4 @@
 .boot
 */target
 .nrepl-*
+/responsive-fixed-data-table/npm-debug.log
